@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WASDKTemplate (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WASDKTemplate (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
